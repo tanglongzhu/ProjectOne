@@ -7,7 +7,7 @@ personNeedOne
 3. `WRAP_CONTENT`，自身高度，极不推荐;
 
 ## Item侧滑菜单
-<image src="./image/xq-1.gif" width="180px"/>
+<image src="./xq-1.gif" width="180px"/>
 
 ### 侧滑删除和拖拽
 拖拽和侧滑删除的功能默认关闭的，所以先要打开功能：
